@@ -1,0 +1,12 @@
+body{
+   padding: 0px;
+   margin: 0px;
+}
+
+input{
+    text-decoration: none;
+}
+
+button{
+    border-radius: 0;
+}
